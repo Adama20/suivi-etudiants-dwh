@@ -1,0 +1,101 @@
+ID_Cours,Nom_Cours,Duree_Heures,Niveau
+1,chirurgien,81,Avancé
+2,professeur dans l'enseignement agricole,59,Avancé
+3,moniteur-éducateur,29,Intermédiaire
+4,mécanicien marine navigant,90,Débutant
+5,modiste,45,Intermédiaire
+6,professeur de collège et de lycée,99,Intermédiaire
+7,régisseur de spectacles,56,Avancé
+8,statisticien en analyse sensorielle,78,Intermédiaire
+9,économiste de la construction,22,Débutant
+10,brancardier,36,Avancé
+11,assistant en études de prix,40,Avancé
+12,mécanicien d'entretien d'avion,13,Avancé
+13,gestionnaire de patrimoine,41,Intermédiaire
+14,concepteur multimédia,16,Débutant
+15,administrateur judiciaire,60,Débutant
+16,verrier au chalumeau,43,Débutant
+17,ingénieur études et développement en logiciels de simulation,68,Intermédiaire
+18,attaché de recherche clinique (ARC),13,Intermédiaire
+19,chef de rayon,39,Intermédiaire
+20,inséminateur,19,Intermédiaire
+21,archéologue,97,Intermédiaire
+22,technicien d'exploitation de l'eau,55,Intermédiaire
+23,esthéticien-cosméticien,73,Intermédiaire
+24,consultant SaaS,17,Avancé
+25,community manager,49,Avancé
+26,contrôleur de gestion,21,Débutant
+27,entraîneur sportif sportive,70,Avancé
+28,agenceur de cuisines et salles de bains,25,Avancé
+29,économètre statisticien,81,Débutant
+30,animateur 2D et 3D,39,Débutant
+31,électromécanicien en remontées mécaniques,47,Avancé
+32,chargé de production,28,Débutant
+33,démographe,21,Débutant
+34,linguiste,87,Intermédiaire
+35,administrateur de logiciels de laboratoire,56,Débutant
+36,juriste droit de l'environnement,52,Débutant
+37,consultant en conduite de changement,68,Débutant
+38,conseiller en voyages,40,Débutant
+39,consultant en solutions intégrées,15,Intermédiaire
+40,agent de transit,15,Intermédiaire
+41,ouvrier plasturgiste,90,Intermédiaire
+42,technicien de fabrication de mobilier et de menuiserie,64,Avancé
+43,chargé de pharmacovigilance,51,Avancé
+44,préparateur en pharmacie,43,Avancé
+45,gestionnaire de données cliniques,83,Débutant
+46,toiletteur d'animaux,62,Intermédiaire
+47,déménageur,36,Intermédiaire
+48,administrateur de spectacle,54,Intermédiaire
+49,ingénieur analogicien analogicienne,56,Intermédiaire
+50,ingénieur de la police technique et scientifique,76,Avancé
+51,ingénieur en énergie solaire,92,Intermédiaire
+52,inspecteur de banque,87,Débutant
+53,ingénieur production en mécanique,46,Débutant
+54,matelot de la marine marchande,75,Avancé
+55,ingénieur plasturgiste,46,Avancé
+56,chef de rayon,99,Débutant
+57,ingénieur hydroécologue,84,Intermédiaire
+58,responsable de projets culturels,79,Avancé
+59,professeur dans l'enseignement agricole,20,Intermédiaire
+60,adjoint administratif administrative,53,Débutant
+61,ingénieur chimiste en développement analytique,70,Intermédiaire
+62,bibliothécaire,34,Débutant
+63,horloger,46,Avancé
+64,designer d'interaction,80,Débutant
+65,ingénieur en métrologie,94,Avancé
+66,technicien biologiste,26,Intermédiaire
+67,carreleur,30,Débutant
+68,médecin généraliste,95,Intermédiaire
+69,magistrat,74,Intermédiaire
+70,ingénieur en électronique numérique,20,Débutant
+71,chef monteur monteuse,72,Avancé
+72,médecin humanitaire,49,Avancé
+73,fiscaliste,87,Avancé
+74,auditeur qualité,96,Avancé
+75,couvreur,36,Débutant
+76,agent d'escale,49,Intermédiaire
+77,poissonnier,31,Intermédiaire
+78,ingénieur de maintenance industrielle,12,Intermédiaire
+79,responsable de production alimentaire,28,Avancé
+80,infirmier humanitaire,21,Débutant
+81,chef de cultures légumières,51,Intermédiaire
+82,dépanneur en électroménager,59,Avancé
+83,gestionnaire de patrimoine,42,Débutant
+84,agent de propreté urbaine,92,Débutant
+85,professeur en activité physique adaptée,93,Débutant
+86,chef de projet biodiversité,45,Débutant
+87,architecte des systèmes d'information,77,Intermédiaire
+88,consignataire de navire,32,Avancé
+89,mouleur-noyauteur,56,Débutant
+90,responsable de projets culturels,79,Avancé
+91,ingénieur recherche et développement en agroalimentaire,80,Avancé
+92,secrétaire d'édition,63,Intermédiaire
+93,animateur socioculturel socioculturelle,43,Avancé
+94,aide-soignant,15,Avancé
+95,ingénieur nucléaire,21,Avancé
+96,assistant commercial commerciale,99,Débutant
+97,ingénieur de maintenance industrielle,75,Avancé
+98,ouvrier agricole,19,Avancé
+99,maître d'hôtel,40,Intermédiaire
+100,chaudronnier,11,Intermédiaire
