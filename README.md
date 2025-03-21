@@ -1,5 +1,7 @@
 # 📊 Data Warehouse - Suivi des Étudiants  
 
+Ce projet m'a permis de mettre en pratique mes compétences en ingénierie et analyse de données en créant un entrepôt de données sur Google Cloud Platform avec une modélisation en étoile. J'ai ensuite connecté cet entrepôt à Power BI en mode DirectQuery pour réaliser des analyses avancées avec DAX, M, SQL et Python.
+
 Ce projet vise à centraliser et analyser les données de suivi des étudiants à l'aide de **Google Cloud BigQuery** et **Power BI**.  
 
 ## 🚀 Objectifs  
